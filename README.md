@@ -3,7 +3,7 @@
 A simple and pretty Minesweeper game for a college project, built with Python and Tkinter.
 
 ## Features
-- 15x15 grid
+- 10x10 grid
 - Randomized mine map every new game
 - Left click to reveal cells
 - Right click to place/remove flags
