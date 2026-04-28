@@ -1,5 +1,3 @@
-"""Entry point for the Minesweeper Tkinter app."""
-
 from ui import MinesweeperApp
 
 

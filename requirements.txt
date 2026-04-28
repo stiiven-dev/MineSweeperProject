@@ -1,3 +1,0 @@
-# No external dependencies.
-# Tkinter ships with standard Python on most desktop installations.
-
