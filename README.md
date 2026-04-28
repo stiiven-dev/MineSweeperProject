@@ -13,6 +13,16 @@ A simple and pretty Minesweeper game for a college project, built with Python an
 - Right click to place/remove flags
 - Clean UI with status bar and difficulty buttons
 
+## Demo Video
+
+Small gameplay demonstration:
+
+<video src="./projet.mp4" width="420" controls>
+  Your browser does not support the video tag. You can watch it here: <a href="./projet.mp4">projet.mp4</a>
+</video>
+
+Direct link: [`projet.mp4`](./projet.mp4)
+
 ## Project Structure
 - `main.py` - app entry point
 - `ui.py` - Tkinter interface and event handling
